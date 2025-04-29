@@ -1,5 +1,5 @@
-# 👋 Hi, I'm [Ru]!  
-### Full-Stack Developer | MERN | MEAN | .NET | SQL Server
+# 👋 Hi, I'm Rupam!  
+### Full-Stack Developer | MERN | MEAN | Flutter | Dart | SQL Server
 
 Welcome to my GitHub profile! 🚀 I'm a passionate full-stack developer specializing in building robust, scalable, and dynamic web applications. With expertise across multiple tech stacks and a deep understanding of backend systems, I thrive on solving complex problems and delivering user-focused solutions.
 
