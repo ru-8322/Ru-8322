@@ -59,21 +59,21 @@
 ---
 
 ### 🌟 **Featured Projects**
-1. **[E-Commerce Platform](https://github.com/yourusername/ecommerce)**  
-   `MERN Stack` `Redux` `Stripe API`  
+1. **[Tender Management](https://github.com/yourusername/ecommerce)**  
+   `MEAN Stack` `Angular` `Razor API`  
    *A full-featured online store with admin dashboard.*  
 
-2. **[Real-Time Chat App](https://github.com/yourusername/chat-app)**  
+2. **[RCH-Platform](https://github.com/yourusername/chat-app)**  
    `Socket.io` `JWT Auth` `MongoDB`  
-   *Group chats, emojis, and message history.*  
+   *Call triggered, and interactive dashboard.*  
 
 ---
 
 ### 📫 **Let's Connect!**
 <p align="left">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:rupam@brainpan.co"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
