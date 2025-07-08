@@ -1,65 +1,84 @@
-# 👋 Hi, I'm Rupam!  
-### Full-Stack Developer | MERN | MEAN | Flutter | Dart | SQL Server
+<h1 align="center">👋 Hi, I'm <strong>Rupam!</strong></h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN | MEAN | Flutter | Dart </h3>
 
-Welcome to my GitHub profile! 🚀 I'm a passionate full-stack developer specializing in building robust, scalable, and dynamic web applications. With expertise across multiple tech stacks and a deep understanding of backend systems, I thrive on solving complex problems and delivering user-focused solutions.
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+</p>
 
 ---
 
-### 🛠️ **Tech Stack**
+### 🔥 **What I Bring to the Table**
+- **Full-Stack Expertise**: From UI/UX to backend APIs and databases.
+- **Mobile-First Mindset**: Cross-platform apps with Flutter & Dart.
+- **Performance Optimization**: Scalable, secure, and high-speed solutions.
+- **Clean Code Advocate**: Maintainable and well-documented projects.
+
+---
+
+### 🛠 **Tech Stack**
 #### **Frontend**
-- ⚡ **JavaScript (ES6+)**
-- 🌟 **React.js, Angular**
-- 🎨 **HTML5, CSS3, Bootstrap, Material-UI, TailwindCSS**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+</p>
 
 #### **Backend**
-- 🔗 **Node.js, Express.js**
-- 🛡️ **.NET Framework & .NET Core**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+</p>
 
 #### **Databases**
-- 🗄️ **SQL Server, MongoDB**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-#### **Other Tools**
-- 🔧 **Git, GitHub**
-- 🌐 **RESTful APIs**
-- 🔄 **Agile & Scrum**
-- 📦 **Docker, Azure**
-
----
-
-### 🏆 **What I Do**
-#### 🚀 **Web Development**
-I build seamless web experiences using modern frameworks like **React** and **Angular**, ensuring responsive designs and intuitive user interactions.
-
-#### ⚙️ **Backend Development**
-With expertise in **Node.js** and **.NET**, I design secure and high-performance backend systems, creating scalable APIs and services.
-
-#### 📊 **Database Management**
-Proficient in relational and NoSQL databases, including **SQL Server** and **MongoDB**, optimizing queries and managing data with efficiency.
+#### **Tools & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+</p>
 
 ---
 
-
-### 🔗 **Connect with Me**
-
-- 🖥️ [Portfolio Website](#) *(Add your link here)*  
-- 💼 [LinkedIn](#) *(Add your link here)*  
-- 🐦 [Twitter](#) *(Add your link here)*  
-
----
-
-### 💡 **Fun Facts**
-- 💻 I love experimenting with new tech stacks and tools.  
-- 🎮 Gaming and coding are my ultimate stress busters.  
-- 🌱 Currently learning **DevOps** to broaden my skillset.
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%">
+</p>
 
 ---
 
-### 📌 **Pinned Projects**
-Here are some of the projects I’m proud of:
-- **[Project 1](#)**: Brief description of the project (e.g., "A full-stack e-commerce app with features X, Y, Z").  
-- **[Project 2](#)**: Brief description of the project (e.g., "Real-time chat application built with MERN stack").  
-- **[Project 3](#)**: Brief description of the project (e.g., "Inventory management system with .NET and SQL Server").
+### 🌟 **Featured Projects**
+1. **[E-Commerce Platform](https://github.com/yourusername/ecommerce)**  
+   `MERN Stack` `Redux` `Stripe API`  
+   *A full-featured online store with admin dashboard.*  
+
+2. **[Real-Time Chat App](https://github.com/yourusername/chat-app)**  
+   `Socket.io` `JWT Auth` `MongoDB`  
+   *Group chats, emojis, and message history.*  
 
 ---
 
-**Let's create something amazing together! 🌟**
+### 📫 **Let's Connect!**
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
+</p>
